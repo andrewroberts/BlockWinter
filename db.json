@@ -1,4 +1,8 @@
 {
   "id": 1,
-  "title": "BlockWinter JSON test"
+  "title": "BlockWinter JSON test",
+  "deeper": {
+    "deep1": "text1",
+    "deep2": "text2"
+  }
 }
